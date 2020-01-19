@@ -8,4 +8,4 @@ Follow [this](https://asciinema.org/a/haJ2wFhziFBSaOwGQFrVEKQMp) link for a vide
 
 #### Disclaimer
 
-These images are taken from [unsplash.com](https://www.unsplash.com) Any of them is made by me or is a personnal propriety of mine
+These images are taken from [unsplash.com](https://www.unsplash.com) None of them is made by me or is a personnal propriety of mine
