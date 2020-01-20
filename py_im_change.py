@@ -21,7 +21,7 @@ def change_images(path_dir,save_to,exists):
          img_res=Image.open(path+"/"+image_clone).resize((width,height),Image.ANTIALIAS)
          img_res.save(save_to+"/"+image_clone)
          height=400
-      print("[***]finished[***]")
+   print("[***]finished[***]")
 path=input("[*]enter the path of the files to change----->>")
 save_dir=input("[#]enter the name of the directory the files will be saved to------>>")
 if (os.path.exists(save_dir)):
