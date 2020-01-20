@@ -7,7 +7,7 @@ def change_images(path_dir,save_to,exists):
    images=os.listdir(path)
    for image in images:
       img_res=Image.open(path+"/"+image).resize((400,400),Image.ANTIALIAS)
-      img_res.save(save_to+"/"+image,quality=20,optimize=True)
+      img_res.save(save_to+"/"+image)
    print("[***]finished[***]")
 path=input("[*]enter the path of the files to change----->>")
 save_dir=input("[#]enter the name of the directory the files will be saved to------>>")
